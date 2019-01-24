@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Find me on GitHub](https://eabrown3.github.io/markdown-portfolio/)
